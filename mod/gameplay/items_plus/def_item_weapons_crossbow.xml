@@ -300,7 +300,7 @@
 		hold_slot						="l_weapon"
 		equip_template					="witcher_crossbow_lvl7"
 		equip_slot						="crossbow_back_slot"
-		localisation_key_name			="item_name_crossbow_1"
+		localisation_key_name			="item_name_crossbow_mastercrafted"
 		localisation_key_description	="item_desc_crossbow_1"
 		icon_path						="icons/inventory/weapons/crossbow/witcher_crossbow_lvl7_64x128.png"
 	>
