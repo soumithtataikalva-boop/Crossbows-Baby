@@ -96,7 +96,7 @@
 		<ammo							type="add"	min="2"					/>
 	</ability>
 
-	<ability name="Temerian Crossbow _Stats">
+	<ability name="Temerian Crossbow _Stats"> <!-- Relic Crossbows -->
 		<weight						type="base"	min="8"	max="8"	/>
 		<attack_power				type="mult" always_random="false"	min="1.2"	max="1.2"	/>
 		<quality					type="add"	min="4"	max="4"	/>
@@ -378,7 +378,7 @@
 		localisation_key_name			="item_name_temerian_crossbow"
 		localisation_key_description	="item_desc_crossbow_1"
 		icon_path						="icons/inventory/weapons/crossbow/witcher_crossbow_lvl4_64x128.png"
-	>
+	> <!-- Relic Crossbows -->
 		<tags>							Weapon, crossbow, mod_weapon
 		</tags>
 		<base_abilities>				<a>Default weapon _Stats</a>
