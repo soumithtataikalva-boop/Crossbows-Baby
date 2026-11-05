@@ -96,6 +96,13 @@
 		<ammo							type="add"	min="2"					/>
 	</ability>
 
+	<ability name="Temerian Crossbow _Stats">
+		<weight type="base" min="8" max="8"/>
+		<attack_power type="mult" always_random="false" min="1.2" max="1.2"/>
+		<quality type="add" min="4" max="4"/>
+		<ammo type="add" min="3" />
+	</ability>
+
 </abilities>
 
 <items>
@@ -355,6 +362,31 @@
 		</base_abilities>
 		<recycling_parts>				<parts count="2">Hardened timber</parts>
 										<parts count="1">Dark iron ore</parts>
+		</recycling_parts>
+	</item>
+
+	<item
+		name							="Temerian Crossbow"
+		category						="crossbow"
+		price							="22"
+		enhancement_slots				="0"
+		ability_slots					="0"
+		grid_size						="2"
+		hold_slot						="l_weapon"
+		equip_template					="witcher_crossbow_lvl4"
+		equip_slot						="crossbow_back_slot"
+		localisation_key_name			="item_name_temerian_crossbow"
+		localisation_key_description	="item_desc_crossbow_1"
+		icon_path						="icons/inventory/weapons/crossbow/witcher_crossbow_lvl4_64x128.png"
+	>
+		<tags>							Weapon, crossbow, mod_weapon
+		</tags>
+		<base_abilities>				<a>Default weapon _Stats</a>
+										<a>Temerian Crossbow _Stats</a>
+		</base_abilities>
+		<recycling_parts>				<parts count="2">Timber</parts>
+										<parts count="1">String</parts>
+										<parts count="1">Iron ore</parts>
 		</recycling_parts>
 	</item>
 
