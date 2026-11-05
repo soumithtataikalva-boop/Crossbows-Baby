@@ -5,7 +5,7 @@
 			<!-- ######################## Geralt DLC13 crossbow stats ######################## -->
 			<ability name="DLC13 Nilfgaardian Crossbow _Stats">
 				<weight type="base" min="8" max="8"/>
-				<attack_power type="mult" always_random="false" min="1.35" max="1.35"/> <!-- Relic Crossbows -->
+				<attack_power type="mult" always_random="false" min="1.25" max="1.25"/>
 				<quality type="add" min="4" max="4"/> <!-- Relic Crossbows -->
 				<ammo type="add" min="3" />
 			</ability>
@@ -13,13 +13,13 @@
 			<ability name="DLC13 Skellige Crossbow _Stats">
 				<weight type="base" min="8" max="8"/>
 				<attack_power type="mult" always_random="false" min="1.45" max="1.45"/>
-				<quality type="add" min="2" max="2"/>
+				<quality type="add" min="4" max="4"/> <!-- Relic Crossbows -->
 				<ammo type="add" min="3" />
 			</ability>
 			
 			<ability name="DLC13 Elven Crossbow _Stats">
 				<weight type="base" min="8" max="8"/>
-				<attack_power type="mult" always_random="false" min="1.25" max="1.25"/> <!-- Relic Crossbows -->
+				<attack_power type="mult" always_random="false" min="1.55" max="1.55"/> <!-- Relic Crossbows -->
 				<quality type="add" min="4" max="4"/> <!-- Relic Crossbows -->
 				<ammo type="add" min="3" />
 			</ability>
