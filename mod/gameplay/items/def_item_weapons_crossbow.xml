@@ -97,10 +97,10 @@
 	</ability>
 
 	<ability name="Temerian Crossbow _Stats"> <!-- Relic Crossbows -->
-		<weight						type="base"	min="8"	max="8"	/>
-		<attack_power				type="mult" always_random="false"	min="1.2"	max="1.2"	/>
-		<quality					type="add"	min="4"	max="4"	/>
-		<ammo						type="add"	min="3"	/>
+		<weight							type="base"	min="8"		max="8"		/>
+		<attack_power					type="mult"	min="1.2"	max="1.2"	always_random="false"	/>
+		<quality						type="add"	min="4"		max="4"		/>
+		<ammo							type="add"	min="3"					/>
 	</ability>
 
 </abilities>
