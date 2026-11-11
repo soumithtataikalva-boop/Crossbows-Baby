@@ -142,11 +142,11 @@
 		ability_slots					="0"
 		grid_size						="2"
 		hold_slot						="l_weapon"
-		equip_template					="witcher_crossbow_lvl3"
+		equip_template					="witcher_crossbow_skellige"
 		equip_slot						="crossbow_back_slot"
 		localisation_key_name			="item_name_draconides_vol_2"
 		localisation_key_description	="item_desc_crossbow_1"
-		icon_path						="icons/inventory/weapons/crossbow/witcher_crossbow_lvl3_64x128.png"
+		icon_path						="icons/inventory/weapons/crossbow/skellige_crossbow_64x128.png"
 	>
 		<tags>							Weapon, crossbow, mod_weapon
 		</tags>
