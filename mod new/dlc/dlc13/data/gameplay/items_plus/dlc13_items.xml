@@ -19,7 +19,7 @@
 			
 			<ability name="DLC13 Elven Crossbow _Stats">
 				<weight type="base" min="8" max="8"/>
-				<attack_power type="mult" always_random="false" min="1.55" max="1.55"/> <!-- Relic Crossbows -->
+				<attack_power type="mult" always_random="false" min="1.35" max="1.35"/> <!-- Relic Crossbows -->
 				<quality type="add" min="4" max="4"/> <!-- Relic Crossbows -->
 				<ammo type="add" min="3" />
 			</ability>
