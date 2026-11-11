@@ -49,14 +49,14 @@
 			<item name="DLC13 Skellige Crossbow"
 				category="crossbow"
 				ability_slots="0"
-				equip_template="witcher_crossbow_skellige"
+				equip_template="witcher_crossbow_lvl3"
 				equip_slot="crossbow_back_slot"
 				localisation_key_name = "item_name_skellige_crossbow"
 				localisation_key_description = "item_desc_crossbow_1"
 				hold_slot="l_weapon"
 				price = "200"
 				grid_size = "2"
-				icon_path="icons/inventory/weapons/crossbow/skellige_crossbow_64x128.png"
+				icon_path="icons/inventory/weapons/crossbow/witcher_crossbow_lvl3_64x128.png"
 				enhancement_slots="0" >
 				<tags>Weapon, crossbow, mod_weapon</tags>
 				<base_abilities>
